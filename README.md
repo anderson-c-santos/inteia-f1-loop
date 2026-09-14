@@ -51,4 +51,4 @@ As anotações das atividades ficam no navegador de cada visitante. Para disponi
 
 ## Versão de origem
 
-Cópia da versão publicada do site, commit `9d9c9d8872356a85a8746dd25f05d52092571a10`. Configurações internas de hospedagem não integram este repositório.
+Cópia da versão publicada do site, commit `48fe74ce997cae15a71aee066ded01708a9b349d`. Configurações internas de hospedagem não integram este repositório.
